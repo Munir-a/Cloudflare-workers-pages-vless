@@ -12,6 +12,8 @@ const proxyIPs = ["[替换为ipv6地址]"]
 2a00:1098:2b::1:ac40:6c0a
 2a00:1098:2c::5:ac40:6c0a
 2a00:1098:2c::5:ac40:6d0a
+3.0.147.253
+45.194.25.18
 
 以下ProxyIP域名来源于@杨幂的脚CM大佬
 阿里云：proxyip.aliyun.fxxk.dedyn.io
